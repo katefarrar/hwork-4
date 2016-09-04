@@ -1,5 +1,5 @@
 # hwork-4
-Learning Git - Homework 4
+Learning Git - Homework 4 - Linds Strickler
 
 4.1: see file 4.1.html for instructions
 
